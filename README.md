@@ -1,6 +1,8 @@
 V8 JavaScript Engine
 =============
 
+[![Join the chat at https://gitter.im/SunghanKim/v8-1](https://badges.gitter.im/SunghanKim/v8-1.svg)](https://gitter.im/SunghanKim/v8-1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 V8 is Google's open source JavaScript engine.
 
 V8 implements ECMAScript as specified in ECMA-262.
@@ -10,7 +12,7 @@ browser from Google.
 
 V8 can run standalone, or can be embedded into any C++ application.
 
-V8 Project page: https://code.google.com/p/v8/
+V8 Project page: https://github.com/v8/v8/wiki
 
 
 Getting the Code
@@ -31,3 +33,10 @@ configuration in `.git/config`:
 
         fetch = +refs/branch-heads/*:refs/remotes/branch-heads/*
         fetch = +refs/tags/*:refs/tags/*
+
+
+Contributing
+=============
+
+Please follow the instructions mentioned on the
+[V8 wiki](https://github.com/v8/v8/wiki/Contributing).
